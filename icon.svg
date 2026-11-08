@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Coopanion task notifications">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F8A8A"/>
+      <stop offset="1" stop-color="#0F4C5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+  <path d="M14 33.5 50 17 39 49l-6.6-12.4z" fill="#FFFFFF"/>
+  <path d="M32.4 36.6 50 17 24.5 41.2l-.6 8.3z" fill="#B7F0E6"/>
+  <circle cx="49" cy="47" r="9" fill="#FFD166"/>
+  <path d="m45 47 3 3 5.5-6" fill="none" stroke="#4A3B00" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

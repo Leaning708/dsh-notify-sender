@@ -1,0 +1,5 @@
+# dsh-notify-sender bundle patch：在 profile 里插入一个 Host 插件行。
+# 行名从 profile 的 node_modules 解析（插件管理器负责安装本包）。
+- insert:
+    - id: dsh-notify-sender
+      name: dsh-notify-sender

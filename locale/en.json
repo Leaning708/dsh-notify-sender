@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Coopanion Bridge",
+    "description": "Notifies Coopanion over WebSocket when a DSH turn ends, and relays Coopanion reply-window messages back to DSH."
+  }
+}

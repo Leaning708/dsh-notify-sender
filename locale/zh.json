@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Coopanion Bridge",
+    "description": "DSH 每轮任务结束时通过 WebSocket 通知 Coopanion，并把 Coopanion 回复窗口里的消息转回 DSH。"
+  }
+}
